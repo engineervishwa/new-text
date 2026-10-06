@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" role="img" aria-label="Shop photo placeholder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dfe9fb"/>
+      <stop offset="1" stop-color="#f7faff"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="450" fill="url(#sky)"/>
+  <!-- ground -->
+  <rect y="380" width="600" height="70" fill="#d9dee8"/>
+  <!-- building -->
+  <rect x="70" y="110" width="460" height="275" fill="#ffffff" stroke="#c9d3e6" stroke-width="3"/>
+  <!-- signboard -->
+  <rect x="70" y="70" width="460" height="74" rx="6" fill="#0b3d91"/>
+  <text x="300" y="112" text-anchor="middle" font-family="Mukta, Noto Sans Devanagari, sans-serif" font-size="34" font-weight="800" fill="#ffffff">श्री ऑनलाईन सेन्टर</text>
+  <text x="300" y="134" text-anchor="middle" font-family="Mukta, sans-serif" font-size="15" font-weight="600" fill="#ffd2ad" letter-spacing="2">SHRI ONLINE CENTER · CSC</text>
+  <!-- awning -->
+  <g>
+    <path d="M70 144h460l-14 34H84z" fill="#f47c20"/>
+    <path d="M110 144h40l-6 34h-40zM190 144h40l-4 34h-40zM270 144h40l-2 34h-40zM350 144h40v34h-40zM430 144h40l2 34h-40z" fill="#ffffff" opacity=".85"/>
+  </g>
+  <!-- counter window -->
+  <rect x="100" y="200" width="250" height="150" rx="6" fill="#e8eefa" stroke="#9fb3d9" stroke-width="3"/>
+  <rect x="125" y="230" width="90" height="60" rx="4" fill="#1b2333"/>
+  <rect x="131" y="236" width="78" height="46" rx="2" fill="#4a7de0"/>
+  <rect x="160" y="290" width="20" height="14" fill="#1b2333"/>
+  <rect x="235" y="250" width="90" height="54" rx="4" fill="#ffffff" stroke="#9fb3d9" stroke-width="2"/>
+  <rect x="245" y="262" width="70" height="6" rx="3" fill="#c9d3e6"/>
+  <rect x="245" y="276" width="55" height="6" rx="3" fill="#c9d3e6"/>
+  <rect x="245" y="290" width="62" height="6" rx="3" fill="#c9d3e6"/>
+  <rect x="100" y="320" width="250" height="30" fill="#0b3d91" opacity=".9"/>
+  <!-- door -->
+  <rect x="385" y="200" width="115" height="185" rx="4" fill="#f6f8fc" stroke="#9fb3d9" stroke-width="3"/>
+  <circle cx="485" cy="295" r="5" fill="#f47c20"/>
+  <text x="442" y="240" text-anchor="middle" font-family="Mukta, sans-serif" font-size="16" font-weight="700" fill="#128c4a">OPEN</text>
+  <text x="442" y="258" text-anchor="middle" font-family="Mukta, sans-serif" font-size="12" fill="#5a6478">9 AM – 6 PM</text>
+  <!-- placeholder note -->
+  <text x="300" y="425" text-anchor="middle" font-family="Mukta, sans-serif" font-size="14" fill="#5a6478">दुकान की असली फोटो यहाँ लगेगी · Real shop photo coming soon</text>
+</svg>
